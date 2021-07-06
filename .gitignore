@@ -1,0 +1,6 @@
+cmake-build-debug/
+CMakeLists.txt
+.idea/
+*.mp4
+*.mkv
+*.pdf
